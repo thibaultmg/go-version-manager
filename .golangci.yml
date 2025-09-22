@@ -1,0 +1,13 @@
+version: "2"
+
+
+linters:
+  default: all
+  disable:
+    - cyclop
+    - forbidigo
+    - funlen
+    - mnd
+    - nlreturn
+    - noinlineerr
+    - wsl
